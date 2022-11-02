@@ -1,0 +1,2 @@
+postgres:
+  url: postgresql+psycopg2://fvcmoaub:jP9wj0Np1XFYd7JoA8mazvgGmk89tg02@peanut.db.elephantsql.com/fvcmoaub
